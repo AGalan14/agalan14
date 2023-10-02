@@ -2,8 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?text=Mi%20Perfil&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="linkedin.com/in/angel-galan-aixut-750a49293">
+  <img height="50" src="![image](https://github.com/AGalan14/agalan14/assets/108438890/002bf066-cc01-434f-92d4-451d43b0da62)
+"/>
 </a>
 
 <!--
