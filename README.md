@@ -3,7 +3,7 @@
 </p>
 
 <a href="linkedin.com/in/angel-galan-aixut-750a49293">
-  <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
 
 <!--
