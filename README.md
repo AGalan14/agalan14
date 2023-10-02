@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Mi%20Perfil&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="https://linkedin.com/in/angel-galan-aixut-750a49293">
+<a href="https://linkedin.com/in/angel-galan-aixut-750a49293" target="_blank">
   <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png"/>
 </a>
 
