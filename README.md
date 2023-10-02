@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://linkedin.com/in/angel-galan-aixut-750a49293" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png"/>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png"/>
 </a>
 
 <!--
