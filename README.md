@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Mi%20Perfil&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<a href="linkedin.com/in/angel-galan-aixut-750a49293">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://linkedin.com/in/angel-galan-aixut-750a49293">
+  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png"/>
 </a>
 
 <!--
