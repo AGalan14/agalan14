@@ -34,6 +34,6 @@ hobbies: Videojuegos, Programar, Arte, Piano
 </div>
 
 <br></br>
-<div align="center>"
+<div align="center>">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agalan14&show_icons=true&theme=tokyonight)
 </div>
