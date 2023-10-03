@@ -33,4 +33,7 @@ hobbies: Videojuegos, Programar, Arte, Piano
   <img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
-[![Mis Stats de Github](https://github-readme-stats.vercel.app/api?username=agalan14)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+<div align="center>"
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agalan14&show_icons=true&theme=tokyonight)
+</div>
