@@ -21,7 +21,7 @@ hobbies: Videojuegos, Programar, Arte, Piano
 
 <h2>🌐 Mis redes</h2>
 <a href="https://www.linkedin.com/in/angel-galan-aixut-750a49293">
-  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
+  <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
 
 <!--
