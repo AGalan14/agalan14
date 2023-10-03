@@ -24,6 +24,8 @@ hobbies: Videojuegos, Programar, Arte, Piano
   <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
 </a>
 
+<h2>💻 Lenguajes de Programación</h2>
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 <!--
 **AGalan14/agalan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
