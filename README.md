@@ -19,6 +19,11 @@ educacion:
 hobbies: Videojuegos, Programar, Arte, Piano
 ```
 
+<h2>🌐 Mis redes</h2>
+<a href="https://www.linkedin.com/in/angel-galan-aixut-750a49293">
+  <img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
+</a>
+
 <!--
 **AGalan14/agalan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
