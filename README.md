@@ -14,7 +14,8 @@ edad: 19
 educacion:
   [
     "ESO",
-    "CFGM (Sistemas Microinformáticos y Redes)"
+    "CFGM (Sistemas Microinformáticos y Redes)",
+    "CFGS (Desarrollo de Aplicaciones Multiplataforma)"
   ]
 hobbies: Videojuegos, Programar, Arte, Piano
 ```
