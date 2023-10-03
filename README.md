@@ -9,8 +9,14 @@
 <h2>🧑‍💻 Sobre mí</h2>
 
 ```yaml
-Nombre: Angel Galan
-Hobbies: Videojuegos, Programar, Arte, Piano
+nombre: Angel Galan
+edad: 19
+educacion:
+  [
+    "ESO",
+    "CFGM (Sistemas Microinformáticos y Redes)"
+  ]
+hobbies: Videojuegos, Programar, Arte, Piano
 ```
 
 <!--
