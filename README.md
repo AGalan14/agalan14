@@ -7,6 +7,7 @@
 </div>
 
 <h3>Sobre mí</h3>
+
 ```yaml
 Nombre: Angel Galan
 Hobbies: Videojuegos, Programar, Arte, Piano
