@@ -26,6 +26,10 @@ hobbies: Videojuegos, Programar, Arte, Piano
 
 <h2>💻 Lenguajes de Programación</h2>
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"/>
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+<img width="5%" src="https://es.wikipedia.org/wiki/CSS#/media/Archivo:CSS3_logo_and_wordmark.svg"/>
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"/>
 <!--
 **AGalan14/agalan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
