@@ -9,15 +9,14 @@
 <h2>🧑‍💻 Sobre mí</h2>
 
 ```yaml
-nombre: Angel Galan
-edad: 20
-educacion:
-  [
+nombre: "Angel Galan",
+edad: 20,
+educacion: {
     "ESO",
     "CFGM (Sistemas Microinformáticos y Redes)",
     "CFGS (Desarrollo de Aplicaciones Multiplataforma)"
-  ]
-hobbies: Videojuegos, Programar, Arte, Piano
+},
+hobbies: [Videojuegos, Programar, Arte, Piano]
 ```
 
 <h2>🌐 Mis redes</h2>
