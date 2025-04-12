@@ -10,7 +10,7 @@
 
 ```yaml
 nombre: Angel Galan
-edad: 19
+edad: 20
 educacion:
   [
     "ESO",
