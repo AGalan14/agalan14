@@ -10,7 +10,8 @@
 
 ```yaml
 nombre: "Angel Galan",
-edad: 20,
+edad: 21,
+trabajo: "Fullstack Developer [Distromel]"
 educacion: {
     "ESO",
     "CFGM (Sistemas Microinformáticos y Redes)",
